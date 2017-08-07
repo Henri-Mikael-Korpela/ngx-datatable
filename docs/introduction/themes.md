@@ -31,8 +31,8 @@ You can just add above to your `scss` file and then specify the class of your ng
     - `draggable`: Header cell draggable class
 
 - `datatable-body-row`: Body row class
-  - `datatable-row-even`: Odd row class
-  - `datatable-row-odd`: Even row class
+  - `datatable-row-even`: Even row class
+  - `datatable-row-odd`: Odd row class
 
     - `datatable-body-cell`: Body cell class
       - `sort-active`: Sort active on column
